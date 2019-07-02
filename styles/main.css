@@ -167,7 +167,9 @@ article img{
     margin-left: .35em;
     border: 1px solid black;
 }
-
+.circle{
+    list-style-type: circle;
+}
 /* the styles for the aside */
 
 aside{
